@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HannaH-MoonMist
+- 👋 Hi, I’m @HannaH
 - 👀 I’m interested in learning coding
 - 🌱 I’m currently learning Python & PySpark
 - 💞️ I’m looking to collaborate on ...
